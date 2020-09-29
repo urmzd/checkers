@@ -1,0 +1,4 @@
+.vscode
+my-app/.eslintrc
+my-app/.prettierrc
+my-app/node_modules

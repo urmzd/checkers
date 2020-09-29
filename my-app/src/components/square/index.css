@@ -1,0 +1,15 @@
+.color1{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.color2{
+
+    background-color: rgb(255, 255, 255);
+}
+.square{
+    height: 50px;
+    width: 50px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    padding: 2px;
+}

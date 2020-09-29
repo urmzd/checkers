@@ -1,0 +1,5 @@
+.game{
+    display: grid;
+    justify-content: center;
+    grid-template-areas: "a b";
+}

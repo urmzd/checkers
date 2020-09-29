@@ -1,0 +1,15 @@
+.team1 {
+    background-color: rgb(255, 140, 140);
+}
+.team2{
+    background-color: rgb(140, 140, 255);
+}
+.piece {
+    display: grid;
+    height : 30px;
+    width: 30px;
+    border-radius: 50%;
+    justify-items: center;
+    align-items: center;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
